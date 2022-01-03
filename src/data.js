@@ -8,25 +8,31 @@ export const products = [
     {
       id: 1,
       img: pexels1,
+      link: "https://github.com/OmarAli2022",
     },
     {
       id: 2,
       img: pexels2,
+      link: "https://github.com/OmarAli2022",
     },
     {
       id: 3,
       img: pexels3,
+      link: "https://github.com/OmarAli2022",
     },
     {
       id: 4,
       img: pexels4,
+      link: "https://github.com/OmarAli2022",
     },
     {
       id: 5,
       img: pexels5,
+      link: "https://github.com/OmarAli2022",
     },
     {
       id: 6,
       img: pexels6,
+      link: "https://github.com/OmarAli2022",
     },
   ];
