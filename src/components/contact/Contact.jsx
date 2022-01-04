@@ -34,26 +34,26 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Let's discuss your project</h1>
+          <h1 className="c-title">Want to build a project?</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +1 1234 556 75
+              +46 73 667 56 39
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              contact@lama.dev
+              omar.ali@omarabdiali.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              245 King Street, Touterie Victoria 8520 Australia
+              Kronoberg county 365 32 Lessebo Sweden. 
             </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>What’s your story?</b> Get in touch. Always available for
-            freelancing if the right project comes along. me.
+            <b>Fullfill your dream!</b> Get in touch. Always available for
+            freelancing if the right project comes along.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor:"#333"}} type="text" placeholder="Name" name="user_name" />

@@ -14,22 +14,24 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          I'am a software developer with good amount of skills.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Omar is driven by his passion for understanding algorithms in programming. 
+          He considers himself an "eternal student", eager to both build on his academic
+          foundations in software development and stay in tune with the latest 
+          technologies through continuing courses. Omar is currently working as a 
+          system developer and is always interested in a challenge. Contact 
+          omar.ali@omarabdiali.com to connect.
         </p>
         <div className="a-award">
           <img src={Examen} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Software developer diploma at EC Utbildning AB
+            Växjö 2021</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              I've studied Java development between year 2019 to 2021 and specialized in 
+              java as programming language.
             </p>
           </div>
         </div>
